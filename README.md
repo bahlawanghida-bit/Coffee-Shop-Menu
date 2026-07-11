@@ -29,9 +29,14 @@ I focused primarily on the **front-end** of the project — building out the pag
 - 2 members
 - Built as a collaborative web development project
 
-## Screenshots / Preview
+## Preview
 
-*(Add a few screenshots of the home page and menu here to showcase the design!)*
+<img width="1912" height="882" alt="image" src="https://github.com/user-attachments/assets/dca8491b-f411-4ec6-b5ce-f55206c5597e" />
+<img width="1896" height="868" alt="image" src="https://github.com/user-attachments/assets/56e5272f-7269-4097-9835-c5e55c16be99" />
+<img width="630" height="786" alt="image" src="https://github.com/user-attachments/assets/7ec5aedd-5920-4012-8247-6444d88a7c91" />
+<img width="617" height="571" alt="image" src="https://github.com/user-attachments/assets/b2d30cc3-b03f-4002-80a8-662dc7d8014d" />
+<img width="1900" height="875" alt="image" src="https://github.com/user-attachments/assets/7d4da9cf-fa7b-4e05-9649-21badebd839c" />
+
 
 ## Getting Started
 
