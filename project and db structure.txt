@@ -1,0 +1,30 @@
+css
+js
+images
+index.php
+header.php
+footer.php
+products.php
+product-details.php
+registration.php
+dbconnect.php
+
+users:
+     id: int(11) autioncrement primary key
+	 name: varchar (255)
+	 email: varchar (255)
+	 username: varchar (255)
+	 password: varchar (255)
+	 
+category:
+     id: int (11) autoincrement primary key 
+	 name: varchar(255)
+	 
+	 
+products:
+id: int(11)autoincrement primary key
+name: varchar(255)
+description:longtext
+catid : int(11)
+price: int(11) 
+	 
